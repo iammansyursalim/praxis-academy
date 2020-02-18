@@ -1,0 +1,1012 @@
+Microsoft Windows [Version 10.0.18363.657]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Mansyur Salim>assoc .txt
+.txt=txtfile
+
+C:\Users\Mansyur Salim>echo "hello world"
+"hello world"
+
+C:\Users\Mansyur Salim>cd
+C:\Users\Mansyur Salim
+
+C:\Users\Mansyur Salim>ip config
+'ip' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Mansyur Salim>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::adba:14f:ea3b:be26%8
+   IPv4 Address. . . . . . . . . . . : 192.168.100.17
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%8
+                                       192.168.100.1
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::79a8:a86e:71cc:1301%4
+   IPv4 Address. . . . . . . . . . . : 192.168.137.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+C:\Users\Mansyur Salim>ls -l
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Mansyur Salim>help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+
+C:\Users\Mansyur Salim>mkdir MAGANG
+
+C:\Users\Mansyur Salim>ntecfg
+'ntecfg' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Mansyur Salim>netcfg
+
+C:\Users\Mansyur Salim>Net print
+The syntax of this command is:
+
+NET
+    [ ACCOUNTS | COMPUTER | CONFIG | CONTINUE | FILE | GROUP | HELP |
+      HELPMSG | LOCALGROUP | PAUSE | SESSION | SHARE | START |
+      STATISTICS | STOP | TIME | USE | USER | VIEW ]
+
+C:\Users\Mansyur Salim>ping
+
+Usage: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+            [-r count] [-s count] [[-j host-list] | [-k host-list]]
+            [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+            [-4] [-6] target_name
+
+Options:
+    -t             Ping the specified host until stopped.
+                   To see statistics and continue - type Control-Break;
+                   To stop - type Control-C.
+    -a             Resolve addresses to hostnames.
+    -n count       Number of echo requests to send.
+    -l size        Send buffer size.
+    -f             Set Don't Fragment flag in packet (IPv4-only).
+    -i TTL         Time To Live.
+    -v TOS         Type Of Service (IPv4-only. This setting has been deprecated
+                   and has no effect on the type of service field in the IP
+                   Header).
+    -r count       Record route for count hops (IPv4-only).
+    -s count       Timestamp for count hops (IPv4-only).
+    -j host-list   Loose source route along host-list (IPv4-only).
+    -k host-list   Strict source route along host-list (IPv4-only).
+    -w timeout     Timeout in milliseconds to wait for each reply.
+    -R             Use routing header to test reverse route also (IPv6-only).
+                   Per RFC 5095 the use of this routing header has been
+                   deprecated. Some systems may drop echo requests if
+                   this header is used.
+    -S srcaddr     Source address to use.
+    -c compartment Routing compartment identifier.
+    -p             Ping a Hyper-V Network Virtualization provider address.
+    -4             Force using IPv4.
+    -6             Force using IPv6.
+
+
+C:\Users\Mansyur Salim>tasklist
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      6.616 K
+Registry                       120 Services                   0     62.036 K
+smss.exe                       428 Services                   0        884 K
+csrss.exe                      656 Services                   0      4.560 K
+wininit.exe                    756 Services                   0      5.156 K
+services.exe                   832 Services                   0      8.008 K
+lsass.exe                      852 Services                   0     19.844 K
+svchost.exe                     84 Services                   0      2.928 K
+svchost.exe                    592 Services                   0     31.112 K
+fontdrvhost.exe                620 Services                   0      1.696 K
+svchost.exe                    828 Services                   0     20.704 K
+svchost.exe                   1072 Services                   0      7.016 K
+svchost.exe                   1280 Services                   0      9.392 K
+svchost.exe                   1288 Services                   0      7.888 K
+svchost.exe                   1364 Services                   0      7.100 K
+svchost.exe                   1472 Services                   0     13.200 K
+svchost.exe                   1524 Services                   0      9.228 K
+svchost.exe                   1644 Services                   0     14.764 K
+svchost.exe                   1660 Services                   0      4.724 K
+svchost.exe                   1668 Services                   0      9.804 K
+svchost.exe                   1820 Services                   0      7.928 K
+NVDisplay.Container.exe       1828 Services                   0     12.028 K
+svchost.exe                   1848 Services                   0      5.292 K
+svchost.exe                   1912 Services                   0      5.972 K
+svchost.exe                   1976 Services                   0      4.380 K
+svchost.exe                   1984 Services                   0    109.268 K
+svchost.exe                   1992 Services                   0      6.336 K
+svchost.exe                   2000 Services                   0      5.828 K
+svchost.exe                   2080 Services                   0      6.660 K
+svchost.exe                   2088 Services                   0      9.732 K
+igfxCUIService.exe            2144 Services                   0      5.928 K
+svchost.exe                   2188 Services                   0     13.916 K
+svchost.exe                   2196 Services                   0      7.176 K
+svchost.exe                   2264 Services                   0     19.064 K
+svchost.exe                   2304 Services                   0      7.804 K
+Memory Compression            2404 Services                   0    392.324 K
+svchost.exe                   2460 Services                   0      5.752 K
+svchost.exe                   2468 Services                   0      6.184 K
+svchost.exe                   2564 Services                   0     11.628 K
+svchost.exe                   2656 Services                   0     23.708 K
+svchost.exe                   2772 Services                   0     31.568 K
+svchost.exe                   2780 Services                   0     14.364 K
+svchost.exe                   3068 Services                   0     10.160 K
+svchost.exe                   3628 Services                   0      9.676 K
+svchost.exe                   3660 Services                   0      6.696 K
+svchost.exe                   4076 Services                   0      5.152 K
+svchost.exe                   4084 Services                   0      7.560 K
+svchost.exe                   3868 Services                   0     16.248 K
+svchost.exe                   4136 Services                   0     11.092 K
+spoolsv.exe                   4236 Services                   0      7.988 K
+wlanext.exe                   4280 Services                   0      3.084 K
+conhost.exe                   4288 Services                   0      3.872 K
+svchost.exe                   4308 Services                   0      5.700 K
+IntelCpHDCPSvc.exe            4452 Services                   0      5.148 K
+svchost.exe                   4460 Services                   0     24.340 K
+svchost.exe                   4468 Services                   0      5.520 K
+nvcontainer.exe               4484 Services                   0     23.384 K
+svchost.exe                   4496 Services                   0     13.044 K
+svchost.exe                   4504 Services                   0      4.028 K
+svchost.exe                   4512 Services                   0     37.524 K
+svchost.exe                   4520 Services                   0     18.848 K
+svchost.exe                   4528 Services                   0      4.432 K
+ETDService.exe                4680 Services                   0      3.872 K
+svchost.exe                   4732 Services                   0      5.120 K
+MsMpEng.exe                   4752 Services                   0    202.688 K
+svchost.exe                   4760 Services                   0      3.840 K
+dasHost.exe                   4768 Services                   0      9.532 K
+IntelCpHeciSvc.exe            4848 Services                   0      6.116 K
+AGMService.exe                4928 Services                   0      6.912 K
+AdobeUpdateService.exe        4988 Services                   0      6.032 K
+AGSService.exe                5072 Services                   0      7.924 K
+svchost.exe                   4876 Services                   0      9.348 K
+svchost.exe                   4896 Services                   0      6.668 K
+OfficeClickToRun.exe          5240 Services                   0     41.812 K
+unsecapp.exe                  5712 Services                   0      5.756 K
+svchost.exe                   6544 Services                   0     15.612 K
+svchost.exe                   6676 Services                   0      4.900 K
+svchost.exe                   6824 Services                   0      6.820 K
+dllhost.exe                   7080 Services                   0      7.668 K
+NisSrv.exe                    5748 Services                   0     10.020 K
+svchost.exe                   3880 Services                   0      7.604 K
+svchost.exe                    936 Services                   0     20.564 K
+svchost.exe                   2804 Services                   0      5.828 K
+svchost.exe                   3532 Services                   0     15.512 K
+SearchIndexer.exe             6176 Services                   0     72.608 K
+SecurityHealthService.exe     8984 Services                   0     13.468 K
+GoogleCrashHandler.exe        2220 Services                   0        212 K
+svchost.exe                   5852 Services                   0      4.076 K
+GoogleCrashHandler64.exe      3576 Services                   0        232 K
+svchost.exe                   8992 Services                   0      6.180 K
+SgrmBroker.exe               10088 Services                   0      6.080 K
+svchost.exe                   6276 Services                   0     14.376 K
+svchost.exe                   3580 Services                   0      8.448 K
+svchost.exe                   3764 Services                   0     18.856 K
+svchost.exe                   3116 Services                   0      7.948 K
+svchost.exe                   7288 Services                   0      8.496 K
+svchost.exe                  10336 Services                   0      9.388 K
+svchost.exe                   1932 Services                   0     13.992 K
+PresentationFontCache.exe     2704 Services                   0      8.760 K
+csrss.exe                    11296                            2      3.764 K
+svchost.exe                   8896 Services                   0     11.100 K
+svchost.exe                   9552 Services                   0      5.200 K
+svchost.exe                  13556 Services                   0      5.828 K
+svchost.exe                  17280 Services                   0      4.532 K
+svchost.exe                  12944 Services                   0      7.404 K
+usocoreworker.exe             9380 Services                   0     21.908 K
+svchost.exe                   2952 Services                   0      7.068 K
+svchost.exe                  18616 Services                   0      5.060 K
+csrss.exe                     6608 Console                    7      5.308 K
+winlogon.exe                 14412 Console                    7      8.704 K
+fontdrvhost.exe               1604 Console                    7      5.712 K
+dwm.exe                       7244 Console                    7     61.804 K
+NVDisplay.Container.exe      19276 Console                    7     26.112 K
+ETDCtrl.exe                  14132 Console                    7     10.752 K
+nvcontainer.exe              18352 Console                    7     26.700 K
+sihost.exe                   18400 Console                    7     33.884 K
+svchost.exe                   8256 Console                    7     27.920 K
+svchost.exe                  12360 Console                    7     42.456 K
+taskhostw.exe                16500 Console                    7     15.864 K
+explorer.exe                  5100 Console                    7    139.048 K
+ctfmon.exe                   18044 Console                    7     13.256 K
+svchost.exe                   9116 Console                    7     31.500 K
+igfxEM.exe                   13824 Console                    7     10.312 K
+StartMenuExperienceHost.e     5320 Console                    7     58.820 K
+dllhost.exe                   7312 Console                    7      6.908 K
+RuntimeBroker.exe            18948 Console                    7     21.736 K
+RuntimeBroker.exe            13696 Console                    7     42.464 K
+SkypeApp.exe                  6928 Console                    7     61.712 K
+SkypeBackgroundHost.exe       5608 Console                    7     10.000 K
+YourPhone.exe                17824 Console                    7     28.392 K
+RuntimeBroker.exe            18552 Console                    7     22.088 K
+SettingSyncHost.exe           6468 Console                    7     11.100 K
+SearchUI.exe                 15616 Console                    7     82.324 K
+SecurityHealthSystray.exe     9020 Console                    7      7.212 K
+RuntimeBroker.exe            17796 Console                    7     24.000 K
+RAVCpl64.exe                 19740 Console                    7     12.880 K
+RAVBg64.exe                   2012 Console                    7     12.040 K
+OneDrive.exe                 10576 Console                    7     43.100 K
+jetbrains-toolbox.exe         4888 Console                    7     54.848 K
+Creative Cloud.exe            3192 Console                    7     58.656 K
+jusched.exe                  15608 Console                    7      5.840 K
+AdobeIPCBroker.exe           18720 Console                    7      9.600 K
+OneDrive.exe                 11932 Console                    7     46.844 K
+RuntimeBroker.exe             3032 Console                    7     13.368 K
+svchost.exe                  19680 Console                    7     17.676 K
+Adobe Desktop Service.exe     6960 Console                    7     65.352 K
+jetbrains-toolbox-helper.    17316 Console                    7     50.832 K
+Adobe CEF Helper.exe         15340 Console                    7     38.000 K
+ShellExperienceHost.exe       4036 Console                    7     54.888 K
+CCLibrary.exe                18952 Console                    7      2.336 K
+node.exe                      7608 Console                    7     31.408 K
+RuntimeBroker.exe            11392 Console                    7     25.144 K
+conhost.exe                  13184 Console                    7      5.100 K
+Adobe CEF Helper.exe           788 Console                    7     62.208 K
+CoreSync.exe                 12048 Console                    7     15.340 K
+NVIDIA Web Helper.exe         9980 Console                    7      1.624 K
+CCXProcess.exe               11976 Console                    7      2.292 K
+node.exe                     14964 Console                    7     33.928 K
+conhost.exe                  19368 Console                    7      5.104 K
+conhost.exe                  13172 Console                    7        412 K
+chrome.exe                   12800 Console                    7    227.788 K
+chrome.exe                    1856 Console                    7      5.832 K
+chrome.exe                   18732 Console                    7      7.188 K
+chrome.exe                   20468 Console                    7    292.800 K
+chrome.exe                   10748 Console                    7     54.040 K
+chrome.exe                   18180 Console                    7     93.164 K
+chrome.exe                    9336 Console                    7     40.468 K
+chrome.exe                   17228 Console                    7     51.540 K
+chrome.exe                   16496 Console                    7     37.664 K
+chrome.exe                   15572 Console                    7     33.788 K
+chrome.exe                   19388 Console                    7     31.256 K
+chrome.exe                    3820 Console                    7     14.968 K
+SkypeBridge.exe               5396 Console                    7     57.360 K
+CompPkgSrv.exe               19308 Console                    7      7.912 K
+SystemSettings.exe           11636 Console                    7         24 K
+ApplicationFrameHost.exe      4064 Console                    7     28.092 K
+WinStore.App.exe             13816 Console                    7         48 K
+RuntimeBroker.exe             9672 Console                    7      7.584 K
+MicrosoftEdge.exe             1612 Console                    7     10.432 K
+browser_broker.exe            3776 Console                    7      6.640 K
+dllhost.exe                   7492 Console                    7     10.968 K
+RuntimeBroker.exe             4828 Console                    7      6.368 K
+MicrosoftEdgeCP.exe          13512 Console                    7     19.172 K
+MicrosoftEdgeSH.exe          13268 Console                    7      9.212 K
+SystemSettingsBroker.exe     14320 Console                    7     25.820 K
+rundll32.exe                  1416 Console                    7      7.672 K
+audiodg.exe                  20424 Services                   0     17.812 K
+svchost.exe                  11720 Services                   0      6.804 K
+svchost.exe                   5676 Services                   0      4.568 K
+svchost.exe                  20388 Services                   0      6.784 K
+alg.exe                       7268 Services                   0      5.048 K
+HxOutlook.exe                 7184 Console                    7         36 K
+RuntimeBroker.exe            13364 Console                    7     19.228 K
+HxTsr.exe                    14280 Console                    7         76 K
+chrome.exe                   12672 Console                    7    239.860 K
+svchost.exe                   9372 Services                   0      6.544 K
+svchost.exe                   8028 Services                   0      8.272 K
+WhatsApp.exe                  2320 Console                    7     82.692 K
+WhatsApp.exe                  2608 Console                    7      9.236 K
+WhatsApp.exe                 16000 Console                    7     73.732 K
+WhatsApp.exe                 13640 Console                    7    174.784 K
+svchost.exe                  12484 Services                   0      5.668 K
+GitHubDesktop.exe            11564 Console                    7     77.700 K
+GitHubDesktop.exe              904 Console                    7     51.768 K
+GitHubDesktop.exe             6052 Console                    7     76.584 K
+chrome.exe                   19640 Console                    7     66.132 K
+chrome.exe                   12884 Console                    7    112.368 K
+chrome.exe                    2340 Console                    7     67.364 K
+chrome.exe                    7556 Console                    7     93.620 K
+chrome.exe                     608 Console                    7    111.472 K
+chrome.exe                   13832 Console                    7     35.212 K
+chrome.exe                   12404 Console                    7    116.852 K
+chrome.exe                   15600 Console                    7     89.588 K
+chrome.exe                    2136 Console                    7     34.636 K
+chrome.exe                   18148 Console                    7     36.584 K
+chrome.exe                   17104 Console                    7     39.588 K
+chrome.exe                    9752 Console                    7     69.092 K
+chrome.exe                   13228 Console                    7     34.388 K
+chrome.exe                   15392 Console                    7     33.820 K
+chrome.exe                    1692 Console                    7     33.324 K
+chrome.exe                    1168 Console                    7     32.488 K
+chrome.exe                   16888 Console                    7     33.944 K
+chrome.exe                    1708 Console                    7     36.404 K
+chrome.exe                   20408 Console                    7     43.072 K
+WindowsInternal.Composabl    12332 Console                    7     42.160 K
+notepad.exe                  18928 Console                    7     15.196 K
+chrome.exe                   19032 Console                    7     80.976 K
+chrome.exe                    9464 Console                    7     44.740 K
+chrome.exe                   14404 Console                    7     37.716 K
+chrome.exe                    4092 Console                    7     61.420 K
+chrome.exe                   15736 Console                    7     38.180 K
+chrome.exe                   19080 Console                    7     87.684 K
+chrome.exe                    3248 Console                    7     22.508 K
+cmd.exe                      18836 Console                    7      3.860 K
+conhost.exe                  10648 Console                    7     18.064 K
+Microsoft.Photos.exe         10572 Console                    7        360 K
+RuntimeBroker.exe            17528 Console                    7     32.144 K
+svchost.exe                   7564 Services                   0      6.640 K
+svchost.exe                  16480 Services                   0     14.660 K
+tasklist.exe                  8196 Console                    7      8.340 K
+WmiPrvSE.exe                  4016 Services                   0      8.776 K
+
+C:\Users\Mansyur Salim>time
+The current time is:  9:04:30,22
+Enter the new time: type .angular-config.json
+The system cannot accept the time entered.
+Enter the new time:
+C:\Users\Mansyur Salim>type .angular-config.json
+{
+  "version": 1,
+  "cli": {
+    "analytics": "5ef4a8f6-fdde-4918-8ab5-42632d662756"
+  }
+}
+C:\Users\Mansyur Salim>where
+The syntax of this command is:
+
+WHERE [/R dir] [/Q] [/F] [/T] pattern...
+
+Description:
+    Displays the location of files that match the search pattern.
+    By default, the search is done along the current directory and
+    in the paths specified by the PATH environment variable.
+
+Parameter List:
+    /R       Recursively searches and displays the files that match the
+             given pattern starting from the specified directory.
+
+    /Q       Returns only the exit code, without displaying the list
+             of matched files. (Quiet mode)
+
+    /F       Displays the matched filename in double quotes.
+
+    /T       Displays the file size, last modified date and time for all
+             matched files.
+
+    pattern  Specifies the search pattern for the files to match.
+             Wildcards * and ? can be used in the pattern. The
+             "$env:pattern" and "path:pattern" formats can also be
+             specified, where "env" is an environment variable and
+             the search is done in the specified paths of the "env"
+             environment variable. These formats should not be used
+             with /R. The search is also done by appending the
+             extensions of the PATHEXT variable to the pattern.
+
+     /?      Displays this help message.
+
+  NOTE: The tool returns an error level of 0 if the search is
+        successful, of 1 if the search is unsuccessful and
+        of 2 for failures or errors.
+
+Examples:
+    WHERE /?
+    WHERE myfilename1 myfile????.*
+    WHERE $windir:*.*
+    WHERE /R c:\windows *.exe *.dll *.bat
+    WHERE /Q ??.???
+    WHERE "c:\windows;c:\windows\system32:*.dll"
+    WHERE /F /T *.dll
+
+C:\Users\Mansyur Salim>whoami
+mansyursalim\mansyur salim
+
+C:\Users\Mansyur Salim>tree
+Folder PATH listing
+Volume serial number is 0809-DC47
+C:.
+├───.android
+│   ├───avd
+│   │   └───Nexus_5X_API_29_x86.avd
+│   ├───build-cache
+│   │   ├───3.3.0
+│   │   │   ├───15d3412ac7fe2bffa1482f00dc1cabc0a8bde7e555b5e18857fda8b9621a604a
+│   │   │   ├───15f641300f0a37b6df9b248bd1b3dce0511042f41d83e9c8b082bb277898ce64
+│   │   │   ├───21af45a7979762cb94a38cf4b366b926fd6383be96f5bb2faee64f4a3a2e6dcf
+│   │   │   ├───2b6e149185e58d18dea1a049a0c0464e51911f2e3ce44a26cbe8bfb11c520bcc
+│   │   │   ├───2bada9332077bd003ea89ce87fcb2d845902938da85f6822f3f2ff86d6d87a8b
+│   │   │   ├───2cfa5a87a4fb46e98a209cafd6e6bae94b7321e4844a4f686bea25e3e9c03361
+│   │   │   ├───4a87fdd2cfb21075117a8f7bb9b0458079d3f70b4815d4a170ebc851a335056c
+│   │   │   ├───4b6e13939778b302bb31d08ed52892030e7db0493760bffa1e6f94a5cc1c95f5
+│   │   │   ├───4fef72d83cb292602095a849f229b98e743ce5209f703fbc3c3a8e61dc600c1e
+│   │   │   ├───5ff9b55a3f9a551bca7ad3dcd8b3dde44f97224d7218bb363e945966b3312d53
+│   │   │   ├───63f6fe6d4cc2e92b0a34e505be14ef8fc92d494db1198be149d5b36ce0b5cacd
+│   │   │   ├───6a519c130c11bf11bf2dbe4fb99f419cbc00fe2bdf1cc51524e099fc144e02dc
+│   │   │   ├───6a84ad16ffa66870a14a442866203775e0fb976eca38e3abd0f53db583d42471
+│   │   │   ├───6d44cab4704611a29fec9b35d5c441048436bbd15b20e3a2faf4734b5640962d
+│   │   │   ├───8b9de64fbca8597ee10e865ccfcd5a8a18d3633483988a098743465b0bcc0721
+│   │   │   ├───9184deb747324ddc3ae89d4338a6fb2c9eee7d85367da0e4c01c07c0e1df0738
+│   │   │   ├───a68cc1b6167e60871de9680be4e7bace327ad7695c5c579a4ff461fd77a80261
+│   │   │   ├───c8059c72632f044c9fea8f9226062d446c052b374394466f91a8bf7e5f8a36fb
+│   │   │   ├───cb3b6b42a41fb73f4f2e64f4ff8421a4bf9b960ea3dfc6d9ed72e6dd92fa5205
+│   │   │   └───cef084a9f5cbae24d0e726dbb90b1112bb1bfd6ccef225868d78f5f778d2094c
+│   │   └───3.5.2
+│   ├───cache
+│   ├───metrics
+│   │   └───spool
+│   └───studio
+│       └───installer
+├───.AndroidStudio3.5
+│   ├───config
+│   │   ├───codestyles
+│   │   ├───options
+│   │   ├───plugins
+│   │   └───tasks
+│   └───system
+│       ├───caches
+│       │   └───framework_resources
+│       ├───compile-server
+│       │   ├───android-apps_8139e4da
+│       │   └───first-app_8104f622
+│       ├───compiler
+│       │   ├───android-apps.d98d451
+│       │   │   └───.generated
+│       │   ├───android.40075389
+│       │   │   └───.generated
+│       │   ├───android.7ef3efc5
+│       │   │   └───.generated
+│       │   ├───app.7ddbb34e
+│       │   │   └───.generated
+│       │   └───first-app.423c7b99
+│       │       └───.generated
+│       ├───conversion
+│       ├───event-log
+│       ├───external_build_system
+│       │   ├───android-apps.d98d451
+│       │   ├───android.40075389
+│       │   ├───android.7ef3efc5
+│       │   └───first-app.423c7b99
+│       ├───extResources
+│       ├───frameworks
+│       │   └───detection
+│       │       ├───android.40075389
+│       │       ├───android.7ef3efc5
+│       │       ├───app.7ddbb34e
+│       │       ├───First App.d98d451
+│       │       └───first-App.423c7b99
+│       ├───index
+│       │   ├───.persistent
+│       │   │   ├───bytecodeanalysis
+│       │   │   ├───idindex
+│       │   │   ├───todoindex
+│       │   │   └───trigram.index
+│       │   ├───android.ndk.jni.nativemethodindex
+│       │   ├───bytecodeanalysis
+│       │   ├───databindingxmlindex
+│       │   ├───domfileindex
+│       │   ├───editorconfig.index.name
+│       │   ├───fileincludes
+│       │   ├───filenameindex
+│       │   ├───filenamewithoutextensionindex
+│       │   ├───filetypes
+│       │   ├───frameworkdetectionindex
+│       │   ├───groovy.trait.fields
+│       │   ├───groovy.trait.methods
+│       │   ├───groovydslfileindex
+│       │   ├───html5.custom.attributes.index
+│       │   ├───idindex
+│       │   ├───imagefileinfoindex
+│       │   ├───java.auto.module.name
+│       │   ├───java.binary.plus.expression
+│       │   ├───java.fun.expression
+│       │   ├───java.null.method.argument
+│       │   ├───java.simple.property
+│       │   ├───json.file.root.values
+│       │   ├───jvm.hierarchy
+│       │   ├───org.jetbrains.kotlin.ide.konan.index.kotlinnativemetafileindex
+│       │   ├───org.jetbrains.kotlin.idea.versions.kotlinjsmetadataversionindex
+│       │   ├───org.jetbrains.kotlin.idea.versions.kotlinjvmmetadataversionindex
+│       │   ├───org.jetbrains.kotlin.idea.vfilefinder.kotlinclassfileindex
+│       │   ├───org.jetbrains.kotlin.idea.vfilefinder.kotlinjavascriptmetafileindex
+│       │   ├───org.jetbrains.kotlin.idea.vfilefinder.kotlinjvmmoduleannotationsindex
+│       │   ├───org.jetbrains.kotlin.idea.vfilefinder.kotlinmetadatafileindex
+│       │   ├───org.jetbrains.kotlin.idea.vfilefinder.kotlinmetadatafilepackageindex
+│       │   ├───org.jetbrains.kotlin.idea.vfilefinder.kotlinmodulemappingindex
+│       │   ├───org.jetbrains.kotlin.idea.vfilefinder.kotlinpackagesourcesmembernamesindex
+│       │   ├───refqueueindex
+│       │   ├───relaxsymbolindex
+│       │   ├───schematypeinheritance
+│       │   ├───stubs
+│       │   │   ├───.fileTypes
+│       │   │   ├───.versions
+│       │   │   ├───dom.elementclass
+│       │   │   ├───dom.namespacekey
+│       │   │   ├───gr.annot.members
+│       │   │   ├───gr.annot.method.name
+│       │   │   ├───gr.anonymous.class
+│       │   │   ├───gr.class.fqn
+│       │   │   ├───gr.class.super
+│       │   │   ├───gr.field.name
+│       │   │   ├───gr.method.name
+│       │   │   ├───gr.script.class
+│       │   │   ├───gr.script.fqn
+│       │   │   ├───java.annotations
+│       │   │   ├───java.anonymous.baseref
+│       │   │   ├───java.class.extlist
+│       │   │   ├───java.class.fqn
+│       │   │   ├───java.class.shortname
+│       │   │   ├───java.field.name
+│       │   │   ├───java.method.name
+│       │   │   ├───java.method.parameter.types
+│       │   │   ├───java.module.name
+│       │   │   ├───jvm.static.member.name
+│       │   │   ├───jvm.static.member.type
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinannotationsindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinclassshortnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinexactpackagesindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinfilefacadeclassbypackageindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinfilefacadefqnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinfilefacadeshortnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinfilepartclassindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinfullclassnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinfunctionshortnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinmultifileclasspartindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinoverridableinternalmembersshortnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinprobablycontractedfunctionshortnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinprobablynothingfunctionshortnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinprobablynothingpropertyshortnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinpropertyshortnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinscriptfqnindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlinsuperclassindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlintoplevelclassbypackageindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlintoplevelextensionsbyreceivertypeindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlintoplevelfunctionbypackageindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlintoplevelfunctionfqnnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlintoplevelpropertybypackageindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlintoplevelpropertyfqnnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlintopleveltypealiasbypackageindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlintopleveltypealiasfqnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlintypealiasbyexpansionshortnameindex
+│       │   │   ├───org.jetbrains.kotlin.idea.stubindex.kotlintypealiasshortnameindex
+│       │   │   └───properties.index
+│       │   ├───todoindex
+│       │   ├───trigram.index
+│       │   ├───xmlnamespaces
+│       │   ├───xmlproperties
+│       │   ├───xmltagnames
+│       │   └───yaml.keys.name
+│       ├───lint
+│       ├───LocalHistory
+│       ├───log
+│       │   ├───threadDumps-freeze-20200102-104252-AI-191.8026.42.35.5977832-17sec
+│       │   ├───threadDumps-freeze-20200102-121003-AI-191.8026.42.35.5977832-31sec
+│       │   ├───threadDumps-freeze-20200102-121126-AI-191.8026.42.35.5977832-9sec
+│       │   ├───threadDumps-freeze-20200102-121135-AI-191.8026.42.35.5977832-8sec
+│       │   ├───threadDumps-freeze-20200102-121840-AI-191.8026.42.35.5977832-7sec
+│       │   ├───threadDumps-freeze-20200102-122942-AI-191.8026.42.35.5977832
+│       │   ├───threadDumps-freeze-20200102-131727-AI-191.8026.42.35.5977832-36sec
+│       │   ├───threadDumps-freeze-20200102-133743-AI-191.8026.42.35.5977832-12sec
+│       │   ├───threadDumps-freeze-20200103-024449-AI-191.8026.42.35.5977832-28sec
+│       │   ├───threadDumps-freeze-20200103-024653-AI-191.8026.42.35.5977832-14sec
+│       │   ├───threadDumps-freeze-20200103-025340-AI-191.8026.42.35.5977832-9sec
+│       │   ├───threadDumps-freeze-20200104-093902-AI-191.8026.42.35.5977832-31sec
+│       │   ├───threadDumps-freeze-20200104-094045-AI-191.8026.42.35.5977832-15sec
+│       │   └───threadDumps-freeze-20200104-094059-AI-191.8026.42.35.5977832-8sec
+│       ├───maven.google
+│       │   └───com
+│       │       └───android
+│       │           ├───support
+│       │           └───tools
+│       │               └───build
+│       ├───plugins
+│       │   └───imageCache
+│       ├───resource_folder_cache
+│       │   ├───android-apps.d98d451
+│       │   │   └───main_18224
+│       │   ├───android.40075389
+│       │   │   └───main_18c2
+│       │   ├───android.7ef3efc5
+│       │   │   └───main_14855
+│       │   └───first-app.423c7b99
+│       │       └───main_231d6
+│       ├───sdk-registry.xml
+│       ├───stats
+│       ├───tasks
+│       ├───testHistory
+│       │   ├───40075389
+│       │   ├───423c7b99
+│       │   ├───7ef3efc5
+│       │   └───d98d451
+│       ├───tmp
+│       ├───vcs-log
+│       │   ├───hashes
+│       │   ├───index
+│       │   └───refs
+│       ├───vcs-users
+│       ├───whatsnew
+│       └───workspace
+├───.config
+│   └───configstore
+├───.configprops
+├───.datastorage
+├───.dbvis
+│   ├───Bookmarks
+│   ├───config70
+│   │   ├───borders
+│   │   ├───keymaps
+│   │   ├───layouts
+│   │   └───themes
+│   ├───ext
+│   │   ├───images
+│   │   │   ├───16x16
+│   │   │   └───24x24
+│   │   ├───keywords
+│   │   └───profiles
+│   ├───History
+│   ├───jdbc
+│   ├───logs
+│   ├───Monitors
+│   ├───sqllogs
+│   └───Workspace
+│       └───default
+│           └───window-0
+^C
+C:\Users\Mansyur Salim>telnet
+'telnet' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Mansyur Salim>telnet telnet microsoft.com
+'telnet' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Mansyur Salim>telnet telnet.microsoft.com
+'telnet' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Mansyur Salim>systeminfo
+
+Host Name:                 MANSYURSALIM
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.18363 N/A Build 18363
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Mansyur Salim
+Registered Organization:
+Product ID:                00329-10286-44768-AA195
+Original Install Date:     31/12/2019, 03:33:51
+System Boot Time:          15/02/2020, 11:29:11
+System Manufacturer:       Acer
+System Model:              Aspire E5-476G
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1600 Mhz
+BIOS Version:              Insyde Corp. V1.36, 24/07/2018
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     8.069 MB
+Available Physical Memory: 2.986 MB
+Virtual Memory: Max Size:  11.516 MB
+Virtual Memory: Available: 3.711 MB
+Virtual Memory: In Use:    7.805 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\MANSYURSALIM
+Hotfix(s):                 11 Hotfix(s) Installed.
+                           [01]: KB4534132
+                           [02]: KB4513661
+                           [03]: KB4516115
+                           [04]: KB4517245
+                           [05]: KB4521863
+                           [06]: KB4524244
+                           [07]: KB4524569
+                           [08]: KB4528759
+                           [09]: KB4537759
+                           [10]: KB4538674
+                           [11]: KB4532693
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Dual Band Wireless-AC 3168
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.100.1
+                                 IP address(es)
+                                 [01]: 192.168.100.17
+                                 [02]: fe80::adba:14f:ea3b:be26
+                           [03]: Microsoft Wi-Fi Direct Virtual Adapter
+                                 Connection Name: Local Area Connection* 2
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.137.1
+                                 [02]: fe80::79a8:a86e:71cc:1301
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+C:\Users\Mansyur Salim>start
+
+C:\Users\Mansyur Salim>set
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_HOME=C:\Users\Mansyur Salim\AppData\Local\Android\Sdk
+ANDROID_SDK_ROOT=C:\Users\Mansyur Salim\AppData\Local\Android\Sdk
+APPDATA=C:\Users\Mansyur Salim\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=MANSYURSALIM
+ComSpec=C:\Windows\system32\cmd.exe
+CORDOVA_ANDROID_GRADLE_DISTRIBUTION_URL=https://services.gradle.org/distributions/gradle-4.10.2-bin.zip
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+HOMEPATH=\Users\Mansyur Salim
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_231
+LOCALAPPDATA=C:\Users\Mansyur Salim\AppData\Local
+LOGONSERVER=\\MANSYURSALIM
+NUMBER_OF_PROCESSORS=8
+OneDrive=C:\Users\Mansyur Salim\OneDrive - mailbox196
+OneDriveCommercial=C:\Users\Mansyur Salim\OneDrive - mailbox196
+OneDriveConsumer=C:\Users\Mansyur Salim\OneDrive
+OS=Windows_NT
+Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\Users\Mansyur Salim\AppData\Roaming\npm;C:\Users\Mansyur Salim\AppData\Local\GitHubDesktop\bin
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e0a
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\MANSYU~1\AppData\Local\Temp
+TMP=C:\Users\MANSYU~1\AppData\Local\Temp
+USERDOMAIN=MANSYURSALIM
+USERDOMAIN_ROAMINGPROFILE=MANSYURSALIM
+USERNAME=Mansyur Salim
+USERPROFILE=C:\Users\Mansyur Salim
+windir=C:\Windows
+
+C:\Users\Mansyur Salim>rename
+The syntax of the command is incorrect.
+
+C:\Users\Mansyur Salim>ren
+The syntax of the command is incorrect.
+
+C:\Users\Mansyur Salim>ren MAGANG MAGANG PRAXIS UAD
+The syntax of the command is incorrect.
+
+C:\Users\Mansyur Salim>rename MAGANG MAGANG PRAXIS UAD
+The syntax of the command is incorrect.
+
+C:\Users\Mansyur Salim>print
+No file to print
+
+C:\Users\Mansyur Salim>powershell
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Mansyur Salim> ^C
+PS C:\Users\Mansyur Salim> exit
+
+C:\Users\Mansyur Salim>pathping
+
+Usage: pathping [-g host-list] [-h maximum_hops] [-i address] [-n]
+                [-p period] [-q num_queries] [-w timeout]
+                [-4] [-6] target_name
+
+Options:
+    -g host-list     Loose source route along host-list.
+    -h maximum_hops  Maximum number of hops to search for target.
+    -i address       Use the specified source address.
+    -n               Do not resolve addresses to hostnames.
+    -p period        Wait period milliseconds between pings.
+    -q num_queries   Number of queries per hop.
+    -w timeout       Wait timeout milliseconds for each reply.
+    -4               Force using IPv4.
+    -6               Force using IPv6.
+
+C:\Users\Mansyur Salim>more
+
+^C
+C:\Users\Mansyur Salim>label
+Volume in drive C: has no label
+Volume Serial Number is 0809-DC47
+Volume label (32 characters, ENTER for none)?
+C:\Users\Mansyur Salim>ipxroute config
+'ipxroute' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Mansyur Salim>hostname
+mansyursalim
+
+C:\Users\Mansyur Salim>getmac
+
+Physical Address    Transport Name
+=================== ==========================================================
+D8-C4-97-42-0B-E6   Media disconnected
+02-7D-22-72-F9-58   \Device\Tcpip_{4CF4A699-803E-492C-908D-84F2872309CD}
+FA-63-3F-ED-C8-03   \Device\Tcpip_{1246183A-AF4B-48C1-AB5D-0405421938AF}
+
+C:\Users\Mansyur Salim>goto
+
+C:\Users\Mansyur Salim>gettype
+'gettype' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Mansyur Salim>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 0809-DC47
+
+ Directory of C:\Users\Mansyur Salim
+
+18/02/2020  09:01    <DIR>          .
+18/02/2020  09:01    <DIR>          ..
+03/01/2020  02:47    <DIR>          .android
+02/01/2020  10:06    <DIR>          .AndroidStudio3.5
+31/12/2019  01:46                90 .angular-config.json
+20/01/2020  10:29             1.295 .bash_history
+31/12/2019  01:34    <DIR>          .config
+02/01/2020  14:18    <DIR>          .configprops
+02/01/2020  14:18    <DIR>          .datastorage
+31/12/2019  01:18    <DIR>          .dbvis
+02/01/2020  19:56               216 .gitconfig
+03/01/2020  02:49    <DIR>          .gradle
+02/01/2020  22:49    <DIR>          .ionic
+13/01/2020  19:37    <DIR>          .ipython
+13/01/2020  20:42    <DIR>          .jupyter
+09/01/2020  22:24    <DIR>          .leonflix
+13/01/2020  20:51    <DIR>          .matplotlib
+15/02/2020  12:11    <DIR>          .PhpStorm2019.3
+09/02/2020  11:58    <DIR>          .PyCharm2019.3
+02/01/2020  00:09    <DIR>          .WebStorm2019.3
+09/02/2020  13:55    <DIR>          3D Objects
+30/12/2019  21:38    <DIR>          ansel
+09/02/2020  13:55    <DIR>          Contacts
+02/01/2020  14:32    <DIR>          Creative Cloud Files
+18/02/2020  08:26    <DIR>          Desktop
+09/02/2020  13:55    <DIR>          Documents
+18/02/2020  08:18    <DIR>          Downloads
+09/02/2020  13:55    <DIR>          Favorites
+02/01/2020  16:34    <DIR>          Justinmind
+09/02/2020  13:55    <DIR>          Links
+18/02/2020  09:01    <DIR>          MAGANG
+09/02/2020  13:55    <DIR>          Music
+18/02/2020  07:50    <DIR>          OneDrive
+18/02/2020  07:50    <DIR>          OneDrive - mailbox196
+09/02/2020  13:55    <DIR>          Pictures
+10/02/2020  20:59    <DIR>          PycharmProjects
+09/02/2020  13:55    <DIR>          Saved Games
+09/02/2020  13:55    <DIR>          Searches
+09/02/2020  13:55    <DIR>          Videos
+               3 File(s)          1.601 bytes
+              36 Dir(s)  130.285.379.584 bytes free
+
+C:\Users\Mansyur Salim>cmd
+Microsoft Windows [Version 10.0.18363.657]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Mansyur Salim>change
+Invalid parameter(s)
+CHANGE { LOGON | PORT | USER }
